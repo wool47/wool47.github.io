@@ -1,5 +1,20 @@
+.navbar {
+	margin-bottom: 0px;
+}
+
+.jumbotron h1 {
+	text-align: center;
+}
+
+.jumbotron p {
+	margin-left: 20%;
+}
+
+body {
+	background-color: #81DAF5;
+}
 h1 {
-  color: green;
+  color: #08088A;
 }
 
 .make-me-red {
